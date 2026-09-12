@@ -1,2 +1,2 @@
 # JavaVsKotlin
-Repositoria para la clase de Desarrollo de Aplicaciones Moviles
+Repositorio para la clase de Desarrollo de Aplicaciones Moviles
